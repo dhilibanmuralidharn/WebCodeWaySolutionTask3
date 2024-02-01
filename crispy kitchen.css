@@ -1,0 +1,270 @@
+.banner-section-bg-container{
+    background-image: url("https://i.postimg.cc/1tN9CvSr/rod-long-I79-Pgmhmy5-M-unsplash.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.banner-section_heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    color: white;
+    font-style: oblique;
+    font-size: 40px;
+}
+.banner-section-paragraph{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    color: white;
+    font-style: oblique;
+    font-size: 25px;
+}
+.btn1{
+    width: 130px;
+    height: 45px;
+    background-color: transparent;
+    border-width: 1px;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    margin-right: 10px;
+    color: bisque;
+}
+.btn2{
+    width: 130px;
+    height: 45px;
+    background-color: transparent;
+    border-width: 1px;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    margin-right: 10px;
+    color: bisque;
+}
+.wcu-section-bg-container{
+    background-color: whitesmoke;
+}
+.wcu-heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: black;
+    font-style: oblique;
+    font-weight: 600;
+}
+.wcu-description{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    line-height: 1.8em;
+}
+.wcu-card{
+    background-color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: inset;
+}
+.wcu-img{
+    width: 200px;
+    height: 200px;
+}
+.wcu-card-heading {
+    font-family: bree serif;
+    font-size: 20px;
+    color: black;
+    margin-top: 10px;
+}
+
+.wcu-card-description {
+    font-family: bree serif;
+    font-size: 18px;
+    color: gray;
+}
+.explore-menu-container{
+    background-color: whitesmoke;
+}
+.explore-menu-heading{
+    font-family: serif;
+    font-size: 35px;
+    font-weight: bold;
+    font-style: oblique;
+    color: black;
+}
+.breakfast-img{
+    width: 300px;
+    height: 300px;
+}
+.explore-btn{
+    background-color: orange;
+    color: white;
+    padding:5px;
+    border-radius: 10px;
+    margin-top: 5px;
+    border-color: orange;
+    width: 120px;
+}
+.span-amount{
+    float: right;
+    color: gold;   
+    background-color: whitesmoke;
+    border-radius: 25px;
+    padding: 6px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.item-heading{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+.news-event-section{
+    background-color: whitesmoke;
+}
+.imgEl{
+    width: 500px;
+    height: 300px;
+}
+.news-description {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-right: 10px;
+    color: black;
+}
+.news-heading{
+    font-family: serif;
+    font-size: 35px;
+    font-weight: bold;
+    font-style: oblique;
+    color: black;
+}
+.imgEl2{
+    width: 350px;
+    height: 250px;
+}
+.icon-contanier {
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    border-radius: 30px;
+    background-color: #0d2436;
+    text-align: center;
+}
+
+.icon-style {
+    font-size: 25px;
+    color: #5a7184;
+    margin: 8px;
+}
+
+.icon-section-descritpion {
+    font-family: "Times New Roman";
+    font-size: 13px;
+    font-weight: 200;
+    color: #5a7184;
+    font-style: italic;
+}
+
+.Gettoknow-section-head {
+    font-family: "Times New Roman";
+    font-size: 18px;
+    font-weight: bold;
+    color: #5a7184;
+    font-style: italic;
+}
+
+.Gettoknow-section-description {
+    font-family: "Times New Roman";
+    font-size: 15px;
+    font-weight: 200;
+    color: #5a7184;
+    font-style: italic;
+}
+
+.horizontal-line {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #5a7184;
+}
+
+.icon-style1 {
+    font-size: 15px;
+    color: #5a7184;
+    margin-right: 5px;
+}
+.Explore-Section-bg {
+    background-color: whitesmoke;
+}
+
+.Explore-Section-main-head {
+    font-family: "Segoe UI";
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.Explore-Section-card-container {
+    background-color: white;
+}
+
+.Explore-Section-card-heading {
+    font-family: "Segoe UI";
+    font-size: 22px;
+    color: #183b56;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.Website-Footer-Section-bg{
+    background-image: url("https://i.postimg.cc/mDxHPJLv/cocktails-shaker-arrangement-night-club.jpg");
+    background-size: cover;
+}
+
+.icon-element {
+    font-size: 25px;
+    color: gray;
+}
+
+.Explore-Section-card-container2 {
+    padding: 8px;
+    text-align: center;
+    width: 120px;
+    height: 150px;
+}
+
+.Explore-Section-card-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.Explore-Section-card-head1 {
+    font-family: "Segoe UI";
+    font-size: 18px;
+    color: #1f2933;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.explore-anchor {
+    font-family: "Segoe UI";
+    font-size: 18px;
+    color: #ff9f00;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.Explore-Section-card-img1 {
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+}
+.head{
+    font-family: "Segoe UI";
+    font-size: 30px;
+    color: whitesmoke;
+    font-weight: bold;
+    font-style: italic;
+}
